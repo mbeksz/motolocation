@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:motolocation/screens/notifications.dart';
 import 'package:water_drop_nav_bar/water_drop_nav_bar.dart';
 import 'package:motolocation/screens/home.dart';
 import 'package:motolocation/screens/map.dart';
@@ -37,7 +38,7 @@ class _MainScreenState extends State<MainScreen> {
   final List<Widget> _screens = [
     const HomeScreen(), // Ana sayfa
     const Map(), // Harita sayfası
-    Center(child: Text('Bildirimler')), // Bildirimler
+    const Center(child: Notifications()), // Bildirimler
     Center(child: Text('Profil')), // Profil
   ];
 

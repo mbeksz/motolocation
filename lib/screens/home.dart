@@ -45,7 +45,10 @@ class _HomeScreenState extends State<HomeScreen> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.start,
           children: <Widget>[
-            const Image(image: AssetImage('lib/assets/images/beepbeep.png')),
+            const Image(
+                image: AssetImage('lib/assets/images/beepbeep.png'),
+                width: 400,
+                height: 400),
             Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[

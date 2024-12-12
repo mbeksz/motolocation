@@ -45,5 +45,8 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<!-- Konum izni açıklamasını buraya ekleyin -->
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need your location to show your current position on the map</string>
 </dict>
 </plist>
