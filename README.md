@@ -1,5 +1,4 @@
-🛵 motolocation
-motolocation, Flutter ile geliştirilen, kullanıcıya motosikletin anlık konumunu gösteren ve bulunduğu konuma olan uzaklığı hesaplayan bir mobil uygulamadır.
+🛵 Mtolocation, Flutter ile geliştirilen, kullanıcıya motosikletin anlık konumunu gösteren ve bulunduğu konuma olan uzaklığı hesaplayan bir mobil uygulamadır.
 
 📱 Özellikler
 📍 Motosikletin anlık konumunu harita üzerinde görüntüleme
